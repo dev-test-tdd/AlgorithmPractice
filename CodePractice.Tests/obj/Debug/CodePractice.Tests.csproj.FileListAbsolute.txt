@@ -1,0 +1,9 @@
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\bin\Debug\CodePractice.Tests.dll
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\bin\Debug\CodePractice.Tests.pdb
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\bin\Debug\CodePractice.exe
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\bin\Debug\nunit.framework.dll
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\bin\Debug\CodePractice.pdb
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\bin\Debug\nunit.framework.xml
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\obj\Debug\CodePractice.Tests.csprojResolveAssemblyReference.cache
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\obj\Debug\CodePractice.Tests.dll
+F:\Practice\Basic C#\CodePractice\CodePractice.Tests\obj\Debug\CodePractice.Tests.pdb

@@ -1,0 +1,6 @@
+F:\Practice\Basic C#\CodePractice\CodePractice\bin\Debug\CodePractice.exe.config
+F:\Practice\Basic C#\CodePractice\CodePractice\bin\Debug\CodePractice.exe
+F:\Practice\Basic C#\CodePractice\CodePractice\bin\Debug\CodePractice.pdb
+F:\Practice\Basic C#\CodePractice\CodePractice\obj\Debug\CodePractice.csprojResolveAssemblyReference.cache
+F:\Practice\Basic C#\CodePractice\CodePractice\obj\Debug\CodePractice.exe
+F:\Practice\Basic C#\CodePractice\CodePractice\obj\Debug\CodePractice.pdb
